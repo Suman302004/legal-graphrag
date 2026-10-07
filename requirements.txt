@@ -1,0 +1,15 @@
+beautifulsoup4
+faiss-cpu
+neo4j
+networkx
+numpy
+pandas
+pyarrow
+pymupdf
+pypdf
+requests
+scikit-learn
+sentence-transformers
+torch
+transformers
+python-dotenv
