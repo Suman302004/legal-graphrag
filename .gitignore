@@ -1,0 +1,19 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Large datasets and generated files
+data/judgments/*.pdf
+data/judgments/*.index
+data/precedents/pdf/
+data/precedents/text/
+data/precedents/precedents.json.tmp
+
+# Generated embedding/index files
+data/judgments/chunks_with_embeddings.csv
+
+# OS / editor files
+.DS_Store
+.vscode/

@@ -1,0 +1,62 @@
+[
+    {
+        "case_id": "1961 INSC 197",
+        "title": "NILKANTHA SHIDRAMAPPA NINGASHETTI versus KASHINATH SOMANNA NINGASHETTI AND OTHERS",
+        "citation": "[1962] 2 S.C.R. 551",
+        "year": "1962",
+        "metadata_path": "1962_2_551_558",
+        "s3_uri": "s3://indian-supreme-court-judgments/data/pdf/year=1962/english/1962_2_551_558_EN.pdf",
+        "pdf": "data\\precedents\\pdf\\1961_INSC_197.pdf",
+        "text": "data\\precedents\\text\\1961_INSC_197.txt"
+    },
+    {
+        "case_id": "1988 INSC 204",
+        "title": "INDIAN RAYON CORPN. LTD. versus RAUNAQ & COMPANY PVT. LTD.",
+        "citation": "[1988] SUPP. 2 S.C.R. 231",
+        "year": "1988",
+        "metadata_path": "S_1988_2_231_237",
+        "s3_uri": "s3://indian-supreme-court-judgments/data/pdf/year=1988/english/S_1988_2_231_237_EN.pdf",
+        "pdf": "data\\precedents\\pdf\\1988_INSC_204.pdf",
+        "text": "data\\precedents\\text\\1988_INSC_204.txt"
+    },
+    {
+        "case_id": "1993 INSC 221",
+        "title": "FOOD CORPORATION OF INDIA AND ORS versus E. KUTTAPPAN",
+        "citation": "[1993] 3 S.C.R. 1028",
+        "year": "1993",
+        "metadata_path": "1993_3_1028_1035",
+        "s3_uri": "s3://indian-supreme-court-judgments/data/pdf/year=1993/english/1993_3_1028_1035_EN.pdf",
+        "pdf": "data\\precedents\\pdf\\1993_INSC_221.pdf",
+        "text": "data\\precedents\\text\\1993_INSC_221.txt"
+    },
+    {
+        "case_id": "1994 INSC 573",
+        "title": "CH. RAMALINGA REDDY versus SUPERINTENDING ENGINEER AND ANR.",
+        "citation": "[1994] SUPP. 6 S.C.R. 266",
+        "year": "1994",
+        "metadata_path": "S_1994_6_266_276",
+        "s3_uri": "s3://indian-supreme-court-judgments/data/pdf/year=1994/english/S_1994_6_266_276_EN.pdf",
+        "pdf": "data\\precedents\\pdf\\1994_INSC_573.pdf",
+        "text": "data\\precedents\\text\\1994_INSC_573.txt"
+    },
+    {
+        "case_id": "1995 INSC 114",
+        "title": "M/S BHARAT COKING COAL LTD. versus M/S C.K. AHUJA AND ANR.",
+        "citation": "[1995] 2 S.C.R. 65",
+        "year": "1995",
+        "metadata_path": "1995_2_65_70",
+        "s3_uri": "s3://indian-supreme-court-judgments/data/pdf/year=1995/english/1995_2_65_70_EN.pdf",
+        "pdf": "data\\precedents\\pdf\\1995_INSC_114.pdf",
+        "text": "data\\precedents\\text\\1995_INSC_114.txt"
+    },
+    {
+        "case_id": "2000 INSC 497",
+        "title": "DEO NARAIN CHOUDHURY versus SHREE NARAIN CHOUDHURY",
+        "citation": "[2000] SUPP. 4 S.C.R. 307",
+        "year": "2000",
+        "metadata_path": "S_2000_4_307_312",
+        "s3_uri": "s3://indian-supreme-court-judgments/data/pdf/year=2000/english/S_2000_4_307_312_EN.pdf",
+        "pdf": "data\\precedents\\pdf\\2000_INSC_497.pdf",
+        "text": "data\\precedents\\text\\2000_INSC_497.txt"
+    }
+]
